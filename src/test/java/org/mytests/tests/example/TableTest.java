@@ -38,7 +38,7 @@ public class TableTest extends TestsBase {
         table().cell(1,1).click();
         jobDescriptionPage.checkOpened();
 //        Assert.isTrue(() -> jobDescriptionPage.addCVForm.isDisplayed(), "ВКД не открылась");
-//        Vetka - 2222
+//        Vetka - Otpravka v vetku 111 rezult -3333
     }
     @Test
     public void cellTestSection() {
